@@ -74,7 +74,7 @@ extension CardView: CardViewModifiers {
     }
 }
 
-// pragma MARK: Property Singelton
+// pragma MARK: Property Object
 
 fileprivate final class CardViewProperties: ObservableObject, Properties {
     
