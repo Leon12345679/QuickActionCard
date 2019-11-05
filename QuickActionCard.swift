@@ -228,7 +228,7 @@ fileprivate struct CrossSymbol: View {
             RoundedRectangle(cornerRadius: 10)
                 .rotation(Angle(degrees: 45))
                 .frame(width: 4)
-            RoundedRectangle(cornerRadius: 15)
+            RoundedRectangle(cornerRadius: 10)
                 .rotation(Angle(degrees: -45))
                 .frame(width: 4)
         }
