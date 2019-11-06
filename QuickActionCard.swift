@@ -145,7 +145,7 @@ struct CardView<Content>: View where Content : View {
                             Card(isPresented: $isPresented,
                                  showOverlay: $showOverlay,
                                  hasDismissButton: $properties.hasDismissButton,
-                                 cornerRadius: 10)
+                                 cornerRadius: $properties.cornerRadius)
                              )
                         
                         .clipped()
@@ -177,7 +177,7 @@ fileprivate struct Card: View {
     @Binding var showOverlay: Bool
     @Binding var hasDismissButton: Bool
 
-    var cornerRadius: CGFloat
+    @Binding var cornerRadius: CGFloat
     
     var body: some View {
         ZStack(alignment: .topTrailing) {
