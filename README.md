@@ -1,7 +1,7 @@
 # QuickActionCard
 
 Displays a customizable quick action card. <br>
-Please feel free to use this View in any of your projects! <br>
+Please feel free to use this View in any of your projects! <br><br>
 Feedback form: https://forms.gle/h21HJ4yxiAg7HaYK8 <br>
 <br>
 <br>
