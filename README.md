@@ -6,7 +6,7 @@ Please feel free to use this file in any of your projects!
 <br>
 
 <div>
-<img align="left" src="https://github.com/Leon12345679/QuickActionCard/blob/master/screenshots/IMG_0319.PNG" width="300" alt="darkMode"/>
+<img align="left" src="https://github.com/Leon12345679/QuickActionCard/blob/master/screenshots/IMG_0349.PNG" width="300" alt="darkMode"/>
 <img src="https://github.com/Leon12345679/QuickActionCard/blob/master/screenshots/IMG_0348.PNG" width="300"alt="withOverlay"/> 
 </div>
 
