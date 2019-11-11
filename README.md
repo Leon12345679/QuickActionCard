@@ -6,6 +6,11 @@ Please feel free to use this file in any of your projects!
 <br>
 <img src="https://github.com/Leon12345679/QuickActionCard/blob/master/screenshots/IMG_0319.PNG" width="300" alt="preview"/>
 
+# Updates
+Update 11.11.2019 <br>
+new overlayUIScreen modifier <br>
+new cardPadding modifier <br>
+
 # Usage Example
 ```swift
 struct ContentView: View {
@@ -46,16 +51,17 @@ struct ContentView: View {
 
 # Current Modifiers
 <ul>
-<li>overlayParent</li>
+<li>overlayUIScreen</li>
 <li>enableHapticFeedback</li>
 <li>tapToDismiss</li>
 <li>dismissButton</li>
 <li>cardCornerRadius</li>
+<li>cardPadding</li>
 </ul>
 
 # Default Behavior 
 The card appears with a slide in from bottom transition. <br>
-The parent overlay appears with an opacity transition (if you use the overlayParent modifier). <br>
+The UIScreen overlay appears with an opacity transition (if you use the overlayUIScreen modifier). <br>
 
 # Contact Info
 You can reach me here: <br>
