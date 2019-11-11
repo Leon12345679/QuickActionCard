@@ -45,6 +45,7 @@ struct ContentView: View {
                 }
 
 //              Modifiers
+                .cardCornerRadius(20)
                 .enableHapticFeedback()
                 .dismissButton()
             }
